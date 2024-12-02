@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/Levels/MainMenu_Map.umap",
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/UI/MainMenu.uasset",
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/UI/MainMenu_GameMode.uasset",
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/LP_FPSLite_JC/Maps/Level1.umap",
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/LP_FPSLite_JC/Maps/Demo.umap",
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/UI/KFC_Image.uasset",
 				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/LP_FPSLite_JC/Maps/Demo.umap",
 				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/AI/AI_Chicken.uasset",
