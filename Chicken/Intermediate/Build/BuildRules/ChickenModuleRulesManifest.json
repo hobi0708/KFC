@@ -1,6 +1,8 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\hobi0.JYK0708.000\\Desktop\\COMP280\\KFC\\Chicken\\Source\\Chicken\\Chicken.Build.cs",
+		"C:\\Users\\hobi0.JYK0708.000\\Desktop\\COMP280\\KFC\\Chicken\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\hobi0.JYK0708.000\\Desktop\\COMP280\\KFC\\Chicken\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
 		"C:\\Users\\hobi0.JYK0708.000\\Desktop\\COMP280\\KFC\\Chicken\\Source\\Chicken.Target.cs",
 		"C:\\Users\\hobi0.JYK0708.000\\Desktop\\COMP280\\KFC\\Chicken\\Source\\ChickenEditor.Target.cs"
 	],
