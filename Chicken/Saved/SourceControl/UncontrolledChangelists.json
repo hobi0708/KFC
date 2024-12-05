@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/Widget/WBP_DeathScreen.uasset",
+				"C:/Users/Chiang/Desktop/KFC/Chicken/Content/Player/BP_Chicken_Player.uasset",
 				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/UI/CreateServer.uasset",
 				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/UI/MainMenu.uasset",
