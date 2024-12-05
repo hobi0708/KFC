@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Chicken.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hobi0.JYK0708.000\Desktop\COMP280\KFC\Chicken\Intermediate\Build\Win64\x64\ChickenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\hobi0.JYK0708.000\Desktop\COMP280\KFC\Chicken\Intermediate\Build\Win64\x64\UnrealEditor\Development\Chicken\Chicken.cpp.obj"
+"C:\Users\hobi0.JYK0708.000\Desktop\COMP280\KFC\Chicken\Intermediate\Build\Win64\x64\UnrealEditor\Development\Chicken\MyClass.cpp.obj"
+"C:\Users\hobi0.JYK0708.000\Desktop\COMP280\KFC\Chicken\Intermediate\Build\Win64\x64\UnrealEditor\Development\Chicken\Default.rc2.res"
+/OUT:"C:\Users\hobi0.JYK0708.000\Desktop\COMP280\KFC\Chicken\Intermediate\Build\Win64\x64\UnrealEditor\Development\Chicken\UnrealEditor-Chicken.lib"

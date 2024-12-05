@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hobi0.jyk0708.000\\desktop\\comp280\\kfc\\chicken\\source\\chicken\\chicken.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hobi0.jyk0708.000\\desktop\\comp280\\kfc\\chicken\\intermediate\\build\\win64\\x64\\chickeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\hobi0.jyk0708.000\\desktop\\comp280\\kfc\\chicken\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chicken\\definitions.chicken.h",
+            "c:\\users\\hobi0.jyk0708.000\\desktop\\comp280\\kfc\\chicken\\source\\chicken\\chicken.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
