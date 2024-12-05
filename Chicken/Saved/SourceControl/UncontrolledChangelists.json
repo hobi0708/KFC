@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/UI/CreateServer.uasset",
+				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/UI/MainMenu.uasset",
+				"C:/Users/hobi0.JYK0708.000/Desktop/COMP280/KFC/Chicken/Content/Levels/MainMenu_Map.umap"
 			]
 		}
 	]
